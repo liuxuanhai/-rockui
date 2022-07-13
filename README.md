@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="http://project.rockshang.cn/rockui/?path=/story/welcome-page--welcome">
-    <img width="400" src="https://img-blog.csdnimg.cn/202005272236562.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NDE2MDM4NQ==,size_16,color_FFFFFF,t_70">
-  </a>
 </p>
 
-<h1 align="center">RockUI</h1>
+<h1 align="center">React-Compnent-ui</h1>
 
 English | [Português](./README-pt_BR.md) | [简体中文](./README-zh_CN.md)
 
